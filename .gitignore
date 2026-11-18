@@ -1,0 +1,11 @@
+result
+result-*
+build/
+.direnv/
+__pycache__/
+*.pyc
+*.qcow2
+*.qcow2.lock
+*.img
+.env
+secrets/
