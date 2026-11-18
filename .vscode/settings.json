@@ -1,0 +1,16 @@
+{
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "files.exclude": {
+    "**/result": true,
+    "**/result-*": true,
+    "**/*.qcow2": true
+  },
+  "search.exclude": {
+    "**/build": true,
+    "**/result": true,
+    "**/result-*": true
+  }
+}
